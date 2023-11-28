@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/bottom_menu_images"
+        android:title="Images"
+        android:icon="@drawable/ic_image"/>
+
+    <item android:id="@+id/bottom_menu_pdfs"
+        android:title="PDFs"
+        android:icon="@drawable/ic_pdf"/>
+
+</menu>
